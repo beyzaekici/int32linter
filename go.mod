@@ -1,4 +1,4 @@
-module mylinter
+module int32linter
 
 go 1.21
 
