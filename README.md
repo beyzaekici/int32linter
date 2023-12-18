@@ -5,7 +5,7 @@ int32linter is a static analyzer to check usage of int32 variable.
 # Install
 to get int32linter execute this :
 
- $ go get github.com/beyzaekici/int32linter
+ $ go install github.com/beyzaekici/int32linter@latest
 
 
 ## Example
