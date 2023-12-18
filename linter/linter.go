@@ -6,7 +6,7 @@ import (
 )
 
 var Analyzer = &analysis.Analyzer{
-	Name: "int32usage",
+	Name: "int32linter",
 	Doc:  "check for int32 usage",
 	Run:  run,
 }
