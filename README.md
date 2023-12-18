@@ -25,3 +25,5 @@ func foo() {
 
 ../main.go:11:8: int32 type is used, consider using int or int64
 
+# Run
+$ int32linter ./...
