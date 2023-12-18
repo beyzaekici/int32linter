@@ -1,4 +1,4 @@
-module int32linter
+module github.com/beyzaekici/int32linter
 
 go 1.21
 
